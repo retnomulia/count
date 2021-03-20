@@ -20,7 +20,7 @@ var x = setInterval(function() {
 
         clearInterval(x);
 
-        window.location.replace("Masukkan Url Setelah Count Selesai");
+        window.location.replace("https://docs.google.com/forms/d/e/1FAIpQLScSSnhBpKLqNsf9QCPLy_C4WaqHbr8Hhojabz7slqWITpgCxg/viewform?usp=sf_link");
 
 
     }
